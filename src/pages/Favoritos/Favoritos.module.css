@@ -4,6 +4,5 @@
     width: 282px;
     background-color: var(--cinza);
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
 }
